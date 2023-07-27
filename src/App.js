@@ -1,6 +1,5 @@
 import logo from './logo.svg';
 import './App.css';
-import "../node_modules/bootstrap/dist/css/bootstrap.css";
 import {
   BrowserRouter,
   Route,
@@ -25,17 +24,11 @@ import { useEffect } from 'react';
 
 function App() {
 
-// const navigate = useNavigate();
-
-// useEffect(() => {
-//   navigate('/users')
-// }, []);
-
   return (
     <>
       <BrowserRouter>
         <Routes>
-          <Route exact={true} path="/users" element={<Home />} ></Route>
+          <Route path="/users" element={<Home />} ></Route>
           {/* <Route exact redirect to="/user" match='full' path="/user" element={<Home />} ></Route> */}
           <Route  path="/about" element={<About />} ></Route>
           <Route  path="/contact" element={<Contact />} ></Route>
