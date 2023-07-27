@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.navLink {
+  text-decoration: none;
+  color: #2E3C4D; /* Replace $background-color-darkblue with the actual color value */
+}
+.navLink:hover {
+  color: #000; /* Replace $color-black with the actual color value */
+}
+.navLink.active div {
+  background-color: #D2E3F4; /* Replace $background-color-lightblue with the actual color value */
+  color: #007BFF; /* Replace $color-blue with the actual color value */
+}
+
+/* .list{
+
+} */

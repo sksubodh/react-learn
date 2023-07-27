@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "firstName": "ccc",
+      "lastName": "Kumar",
+      "nickName": "ccc",
+      "emailAddress": "abhi@gmail.com",
+      "phoneNumber": "9876543210",
+      "alternatePhone": "6213456780",
+      "address1": "noida1",
+      "address2": "noida2",
+      "country": "india",
+      "cardNumber": "123456789012",
+      "cardMonth": "08",
+      "cardYear": "2024",
+      "id": 3
+    },
+    {
+      "firstName": "dd",
+      "lastName": "dd",
+      "nickName": "abhi",
+      "emailAddress": "abhi@gmail.com",
+      "phoneNumber": "9876543210",
+      "alternatePhone": "6213456780",
+      "address1": "noida1",
+      "address2": "noida2",
+      "country": "india",
+      "cardNumber": "123456789012",
+      "cardMonth": "08",
+      "cardYear": "2024",
+      "id": 4
+    },
+    {
+      "firstName": "ee",
+      "lastName": "ee",
+      "nickName": "abhi",
+      "emailAddress": "abhi@gmail.com",
+      "phoneNumber": "9876543210",
+      "alternatePhone": "6213456780",
+      "address1": "noida1",
+      "address2": "noida2",
+      "country": "india",
+      "cardNumber": "123456789012",
+      "cardMonth": "08",
+      "cardYear": "2024",
+      "id": 5
+    },
+    {
+      "firstName": "ff",
+      "lastName": "ff",
+      "nickName": "abhi",
+      "emailAddress": "abhi@gmail.com",
+      "phoneNumber": "9876543210",
+      "alternatePhone": "6213456780",
+      "address1": "noida1",
+      "address2": "noida2",
+      "country": "india",
+      "cardNumber": "123456789012",
+      "cardMonth": "08",
+      "cardYear": "2024",
+      "id": 6
+    }
+  ]
+}
